@@ -6,7 +6,7 @@ Chương trình ứng dụng Máy tính đơn giản (Calculator) minh họa k�
 
 ## 📸 Màn Hình Demo Giao Diện
 
-![Giao diện Calculator](<./BÀI TẬP 4.3/demo.png>)
+![Giao diện Calculator](demo.png)
 
 ---
 
